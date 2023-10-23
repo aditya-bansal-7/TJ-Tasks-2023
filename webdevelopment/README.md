@@ -16,6 +16,7 @@ or
 ## Hard:
 - Create a full-stack notes app.
 Features: Authentication, Authorization, Noted CRUD operations
+
 or 
 - Clone this app, 
 ref: https://guiser.org/swap
